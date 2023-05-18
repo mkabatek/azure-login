@@ -1,6 +1,6 @@
-# azure-login
+# azure-login oauth
 
-This example uses Node and Nest.js - 2023
+This example uses Node and Nest.js - 2023, this is an example how to enable a user to login with their Microsoft account for a web service.
 
 * Login to Microsoft Azure Console and search for App registrations
 <img width="892" alt="Screenshot 2023-05-18 at 7 30 36 AM" src="https://github.com/mkabatek/azure-login/assets/1764486/506ed7c1-365e-46fa-b11b-d2216c09f1a8">
