@@ -3,8 +3,10 @@
 This example uses Node and Nest.js - 2023, this is an example how to enable a user to login with their Microsoft account for a web service.
 
 * Login to Microsoft Azure Console and search for App registrations
-<img width="892" alt="Screenshot 2023-05-18 at 7 30 36 AM" src="https://github.com/mkabatek/azure-login/assets/1764486/506ed7c1-365e-46fa-b11b-d2216c09f1a8">
-* Cea a new App, New Registration
+* 
+<img width="894" alt="Screenshot 2023-05-18 at 8 13 04 AM" src="https://github.com/mkabatek/azure-login/assets/1764486/eca1d178-febd-44e0-a025-38b5e1c6b4f9">
+
+* Create a new App: New Registration
 
 * <img width="816" alt="Screenshot 2023-05-18 at 7 32 04 AM" src="https://github.com/mkabatek/azure-login/assets/1764486/9ef3f82f-a71f-43d5-87c5-e4050ff810a7">
 
